@@ -1,2 +1,2 @@
-# portfolio
-Leigh Passamano's portfolio
+# Portfolio
+Leigh Passamano's Portfolio
